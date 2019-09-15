@@ -1,0 +1,2 @@
+# Template
+Laboratory Guide template
